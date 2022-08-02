@@ -11,7 +11,6 @@
   <img alt="Bootstrap" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
   <img alt="React" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <img alt="Sass" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <img alt="PHP" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
 </div>
 
 <hr>
@@ -20,5 +19,6 @@
   <div style="display: inline-block">
     <a href="https://linkedin.com/in/armando-souza/" target="_blank"><img alt="Meu Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="mailto:armandobssouza@hotmail.com" target="_blank"><img alt="Meu email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://armandosouza.epizy.com" target="_blank"><img alt="Meu site pessoal" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
   </div>
 </div>
