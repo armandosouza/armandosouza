@@ -27,4 +27,7 @@
     <a href="mailto:armandobssouza@hotmail.com" target="_blank"><img alt="Meu email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://armandosouza.epizy.com" target="_blank"><img alt="Meu site pessoal" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
   </div>
+  <div>
+    <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=armandosouza&layout=compact&hide_border=true&title_color=00bfbf&textcolor=d3d3d3&bg_color=0d1117" />
+  </div>
 </div>
