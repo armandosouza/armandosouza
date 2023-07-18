@@ -28,3 +28,5 @@
     <a href="https://armandosouza.epizy.com" target="_blank"><img alt="Meu site pessoal" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
   </div>
 </div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=armandosouza\&layout=compact)
